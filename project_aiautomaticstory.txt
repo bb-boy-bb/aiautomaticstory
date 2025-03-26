@@ -1,0 +1,96 @@
+├── /templates
+│   ├── /partials
+│   │   ├── header.html
+│   │   ├── footer.html
+│   │   ├── sidebar.html
+│   │   ├── navbar.html
+│   │   └── seo_meta.html
+│   ├── /content
+│   │   ├── home.html
+│   │   ├── trending_news.html
+│   │   ├── viral_videos.html
+│   │   ├── ai_stories.html
+│   │   ├── article_page.html
+│   │   ├── video_page.html
+│   │   ├── podcast_page.html
+│   │   └── search_results.html
+│   ├── /ecommerce
+│   │   ├── product_page.html
+│   │   ├── cart_page.html
+│   │   ├── checkout_page.html
+│   │   ├── order_confirmation.html
+│   │   ├── product_review.html
+│   │   ├── affiliate_links.html
+│   │   ├── payment_success.html
+│   │   ├── subscription_plans.html
+│   │   ├── digital_downloads.html
+│   │   ├── membership_portal.html
+│   │   └── loyalty_rewards.html
+│   ├── /auth
+│   │   ├── login.html
+│   │   ├── register.html
+│   │   ├── forgot_password.html
+│   │   ├── reset_password.html
+│   │   ├── profile.html
+│   │   ├── account_settings.html
+│   │   ├── two_factor_auth.html
+│   │   └── email_verification.html
+│   ├── /emails
+│   │   ├── order_confirmation_email.html
+│   │   ├── abandoned_cart_email.html
+│   │   ├── newsletter_template.html
+│   │   ├── product_promotion_email.html
+│   │   ├── account_activation.html
+│   │   ├── webinar_invite.html
+│   │   ├── user_feedback_request.html
+│   │   └── viral_trend_alert.html
+│   ├── 404.html
+│   ├── contact_us.html
+│   ├── about_us.html
+│   ├── terms_conditions.html
+│   ├── privacy_policy.html
+│   ├── sitemap.xml
+│   └── robots.txt
+├── /static
+│   ├── /css
+│   │   └── style.css
+│   ├── /js
+│   │   ├── main.js
+│   │   ├── video_player.js
+│   │   ├── chatbot_ai.js
+│   │   └── auto_post_scheduler.js
+│   ├── /images
+│   │   ├── logo.png
+│   │   ├── banner.jpg
+│   │   └── product_sample.jpg
+│   └── /uploads
+│       └── user_uploads/
+├── /data
+│   ├── products.json
+│   ├── news_trending.json
+│   ├── user_data.json
+│   ├── affiliate_data.json
+│   ├── seo_keywords.json
+│   └── viral_content_data.json
+├── /automation
+│   ├── content_scheduler.py
+│   ├── social_auto_poster.py
+│   ├── ai_trend_analyzer.py
+│   ├── video_auto_editor.py
+│   ├── thumbnail_generator.py
+│   ├── email_auto_responder.py
+│   ├── seo_auto_optimizer.py
+│   └── ecommerce_auto_manager.py
+├── /api
+│   ├── youtube_api.py
+│   ├── facebook_api.py
+│   ├── google_trends_api.py
+│   ├── affiliate_api.py
+│   ├── payment_gateway_api.py
+│   └── analytics_api.py
+├── .env
+├── config.yaml
+├── requirements.txt
+├── README.md
+├── app.py
+└── manage.py
