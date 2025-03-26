@@ -1,1 +1,12 @@
-
+/partials
+/content
+/ecommerce
+/auth
+/emails
+404.html
+contact_us.html
+about_us.html
+terms_conditions.html
+privacy_policy.html
+sitemap.xml
+robots.txt
